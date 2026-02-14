@@ -134,10 +134,3 @@ This project demonstrates the ability to convert raw sales data into a structure
 
 ## Dataset used
 https://github.com/Anuj-codes21/Business-Insights-Dashboard/blob/main/MS_Dashboard%20-.pbix
-
-
-## Dashboard Preview-
-https://github.com/Anuj-codes21/Business-Insights-Dashboard/blob/main/MS_PIC.png
-
-
-  
